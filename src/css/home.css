@@ -182,20 +182,22 @@
     color: #07fdd8;
 }
 
+.home_part1 {
+    position: relative;
+    top: 20%;
+}
+
 .home__main__text {
     font-size: 15px;
     font-size: 15px;
     font-weight: 200;
-    padding-top: 20px;
 }
 
 @media only screen and (max-width: 600px) {
     .home__main {
         font-size: 15px !important;
     }
-    .home__main__text {
-        padding-top: 20px;
-    }
+    .home__main__text {}
 }
 
 .home__button {
