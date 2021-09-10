@@ -1,0 +1,34 @@
+.about{
+    background-color: #1d1d1d;
+    flex: 1;
+    padding: 30px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    line-height: 2;
+}
+
+.about__textzone > h1{
+    color: #07fdd8;
+}
+.about__textzone >h4{
+    color: #fff;
+    line-height: 2.4;
+}
+
+.about__skilss{
+    color: #fff;
+}
+.about__skilss> h2{
+    color: #07fdd8;
+
+}
+.about__skilss >hr{
+    width: 60px;
+    position: relative;
+    right: 47%;
+    bottom: 8%;
+    color: #14796a;
+}
+.about ul li {
+    list-style: none;
+}

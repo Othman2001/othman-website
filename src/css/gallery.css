@@ -1,0 +1,35 @@
+.gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.card{
+    display: grid;
+    position: relative;
+    align-items: center;
+}
+.card__image{
+ width: 300px;
+object-fit: contain;
+
+}
+.card__button{
+    position: relative;
+    bottom: 38%;
+    left: 30%;
+}
+.card__button > a{
+    color: #fff !important;
+    text-decoration: none;
+
+
+}
+a{
+    text-decoration:  none !important;
+    color: #fff !important;
+}
+
+.@media only screen and (max-width: 600px) {
+    .card__button{
+        margin-bottom: 30px !important;
+    }
+}
