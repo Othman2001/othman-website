@@ -192,8 +192,6 @@
 @media only screen and (max-width: 600px) {
     .home__main {
         font-size: 15px !important;
-        position: relative;
-        bottom: 10%;
     }
     .home__main__text {
         padding-top: 20px;
