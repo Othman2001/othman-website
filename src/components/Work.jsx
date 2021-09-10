@@ -1,13 +1,13 @@
 import React from 'react'
 import "../css/work.css"
 import Gallery from "./Gallery";
-import project2 from '../images/project2.jpg'
-import project3 from '../images/project3.jpg'
-import project4 from '../images/project4.png'
-import project5 from '../images/project5.png'
-import project6 from '../images/project6.png'
-import project7 from '../images/project7.png'
-import project8 from '../images/fitness.PNG'
+import project2 from '../images/project2.webp'
+import project3 from '../images/project3.webp'
+import project4 from '../images/project4.webp'
+import project5 from '../images/project5.webp'
+import project6 from '../images/project6.webp'
+import project7 from '../images/project7.webp'
+import project8 from '../images/fitness.webp'
 
 function Work (){
 const data = [

@@ -1,8 +1,3 @@
-html,
-body {
-    background-color: #2e7e92;
-}
-
 .robot svg {
     position: absolute;
     top: 50%;
@@ -198,8 +193,7 @@ body {
     .home__main {
         font-size: 15px !important;
         position: relative;
-        bottom: 39%;
-        line-height: 2;
+        bottom: 10%;
     }
     .home__main__text {
         padding-top: 20px;
@@ -234,8 +228,8 @@ body {
     }
     .robot svg {
         position: absolute;
-        top: 100%;
-        left: 50%;
+        top: 90%;
+        left: 43%;
         display: block;
         margin: 0 auto;
         margin-left: -300px;

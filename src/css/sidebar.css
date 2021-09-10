@@ -1,5 +1,4 @@
-.sidebar{
-    height: 110vh;
+.sidebar {
     color: #282c34;
     display: flex;
     flex: 0;
@@ -10,27 +9,15 @@
     background-color: #181818;
     color: #fff;
     position: relative;
-
-
 }
 
-.sidebar__icon{
+.sidebar__icon {
     color: #a5a5a5 !important;
     font-size: 30px !important;
 }
 
-.sidebar__icon:hover{
+.sidebar__icon:hover {
     color: #14796a !important;
     transition: 3ms ease-in-out;
     cursor: pointer;
-}
-@media only screen and (max-width: 600px) {
-   .sidebar{
-       height: 270vh;
-   }
-    .socail {
-        position: relative;
-        bottom: 60%;
-
-    }
 }
